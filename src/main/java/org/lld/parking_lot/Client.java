@@ -38,10 +38,10 @@ public class Client {
 //        demoRandomString();
         createTestData();
         demoUserInput();
-        demoIssueTicket();
-        showAllOccupiedParkingSpots();
-        showAllAvailableParkingSpots();
-        showAllParkingSpots();
+//        demoIssueTicket();
+//        showAllOccupiedParkingSpots();
+//        showAllAvailableParkingSpots();
+//        showAllParkingSpots();
 
     }
     private static void demoUserInput() {
